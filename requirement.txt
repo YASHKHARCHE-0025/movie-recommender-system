@@ -1,0 +1,5 @@
+pandas
+string
+scikit-learn
+TfidfVectorizer
+difflib
